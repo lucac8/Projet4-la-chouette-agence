@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -1039,4 +1039,16 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.avis{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.avis__name
+{
+    font-size: medium;
+    margin-top: 0;
 }
